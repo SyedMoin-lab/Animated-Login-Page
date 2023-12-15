@@ -20,4 +20,3 @@ This project showcases an animated login page created using HTML and CSS. The lo
   
 Make sure to replace `Modern-Login.png` with the correct path to your screenshot image within your repository.
 
-Remember to adjust the image path accordingly if it's located in a different directory within your repository. This will allow anyone viewing your README file on GitHub to see the screenshot you've added.
