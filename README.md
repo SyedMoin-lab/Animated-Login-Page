@@ -1,11 +1,4 @@
-# Animated-Login-Page
 
-
-
-
-To include a screenshot in your README file, you can upload the image to your repository and then use markdown to embed it in the README. Here's an example of how you can do it:
-
----
 
 # Animated Login Page
 
