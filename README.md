@@ -11,6 +11,10 @@ To include a screenshot in your README file, you can upload the image to your re
 
 ![Login Page Screenshot](Modern-Login.png)
 
+# Check out this quick video showcasing the login page:
+
+[![Animated Login Page Demo]()
+
 This project showcases an animated login page created using HTML and CSS. The login page allows users to authenticate using multiple social media platforms such as Google+, Facebook, GitHub, and LinkedIn.
 
 ## Features
