@@ -1,4 +1,4 @@
-
+### Welcome to the Animated Login Page project!
 
 # Animated Login Page
 
