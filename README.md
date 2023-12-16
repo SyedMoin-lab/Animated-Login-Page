@@ -2,7 +2,7 @@
 
 # Animated Login Page
 
-![Login Page Screenshot](Modern-Login.png)
+![Login Page Screenshot](Modern-Login.jpg)
 
 # Check out this quick video showcasing the login page:
 
